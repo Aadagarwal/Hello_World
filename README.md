@@ -1,10 +1,10 @@
-- [About me](# About me)
-- [Project title](## Project-Title)
-- [Description](## Description)
+- [About me](#About-me)
+- [Project title](##Project-Title)
+- [Description](##Description)
 - [How to run the program](## How-to-run-program)
-- [Files used](## Files-used)
-- [Additional documentation](## Additional-documentation)
-- [Versioning](## Versioning)
+- [Files used](##Files-used)
+- [Additional documentation](##Additional-documentation)
+- [Versioning](##Versioning)
 
 # About me
 Fellow humans my name is **Aadhar Agarwal**.
