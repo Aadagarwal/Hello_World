@@ -1,7 +1,7 @@
 - [About me](#About-me)
 - [Project title](#Project-Title)
 - [Description](#Description)
-- [How to run the program](#How-to-run-program)
+- [How to run the program](#How-to-run-the-program)
 - [Files used](#Files-used)
 - [Additional documentation](#Additional-documentation)
 - [Versioning](#Versioning)
